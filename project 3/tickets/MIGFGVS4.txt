@@ -1,0 +1,8 @@
+Prio: Not urgent
+
+Name: Juan
+
+Submitted: 2025-11-26T16:58:55.851-03:00
+
+Description:
+User requests to speak with a human regarding a personal issue (taking a day off) that is outside the scope of IT support.
