@@ -1,0 +1,8 @@
+Prio: Urgent
+
+Name: Juan
+
+Submitted: 2025-11-26T16:47:13.764-03:00
+
+Description:
+User continues to experience Windows login issues and requests direct human assistance.
